@@ -38,7 +38,3 @@ bob : bob devteam
 - Access Verification
 - Linux Administration
 - Technical Documentation
-
-## Real-World Equivalent
-
-This lab demonstrates user onboarding and access management concepts commonly performed in enterprise environments such as Active Directory and Microsoft Entra ID.
